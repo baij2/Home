@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.778eeed7.css",
-    "main.js": "/home/static/js/main.63f529a6.js",
-    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/Tableau certificate.png": "/home/static/media/Tableau certificate.9e1dbde0e3efe9a3c6d1.png",
-    "static/media/sql_certificate.png": "/home/static/media/sql_certificate.9e1c15effda4da5895f7.png",
-    "static/media/Introduction to Visulization with ggplot certificate.png": "/home/static/media/Introduction to Visulization with ggplot certificate.e95f50c236a6851e8835.png",
-    "static/media/Introduction to Regression in R certificate.png": "/home/static/media/Introduction to Regression in R certificate.0c07834ae39fa2e54c22.png",
-    "static/media/Introduction to R certificate.png": "/home/static/media/Introduction to R certificate.fa2315408ddf8b79cb8e.png",
-    "index.html": "/home/index.html",
-    "main.778eeed7.css.map": "/home/static/css/main.778eeed7.css.map",
-    "main.63f529a6.js.map": "/home/static/js/main.63f529a6.js.map",
-    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/Home/static/css/main.778eeed7.css",
+    "main.js": "/Home/static/js/main.b33ea37f.js",
+    "static/js/787.4b24f717.chunk.js": "/Home/static/js/787.4b24f717.chunk.js",
+    "static/media/Tableau certificate.png": "/Home/static/media/Tableau certificate.9e1dbde0e3efe9a3c6d1.png",
+    "static/media/sql_certificate.png": "/Home/static/media/sql_certificate.9e1c15effda4da5895f7.png",
+    "static/media/Introduction to Visulization with ggplot certificate.png": "/Home/static/media/Introduction to Visulization with ggplot certificate.e95f50c236a6851e8835.png",
+    "static/media/Introduction to Regression in R certificate.png": "/Home/static/media/Introduction to Regression in R certificate.0c07834ae39fa2e54c22.png",
+    "static/media/Introduction to R certificate.png": "/Home/static/media/Introduction to R certificate.fa2315408ddf8b79cb8e.png",
+    "index.html": "/Home/index.html",
+    "main.778eeed7.css.map": "/Home/static/css/main.778eeed7.css.map",
+    "main.b33ea37f.js.map": "/Home/static/js/main.b33ea37f.js.map",
+    "787.4b24f717.chunk.js.map": "/Home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.63f529a6.js"
+    "static/js/main.b33ea37f.js"
   ]
 }
